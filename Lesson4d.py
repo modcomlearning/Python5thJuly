@@ -11,3 +11,7 @@ def bmi(weight, height):
 # the answer is returned below
 answer = bmi(weight=45, height=1.2)
 print('Answer is ', answer)
+
+if answer<10:
+    print('okay')
+

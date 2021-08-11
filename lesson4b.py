@@ -16,6 +16,9 @@ def add():
     answer = num1 + num2
     print('Sum is ', answer)
 
+bmi()
 add()
 add()
+add()
+
 

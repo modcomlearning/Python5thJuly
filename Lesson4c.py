@@ -25,3 +25,6 @@ def area(b, h):
 # below b abd h are said to args
 area(b = 5, h = 5)
 area(b = 4, h = 2)
+area(b = 5, h = 10)
+
+
